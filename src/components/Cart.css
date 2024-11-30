@@ -1,0 +1,9 @@
+.cart-list {
+    list-style-type: none;   /* Removes bullets */
+    padding-left: 0;          /* Removes default left padding */
+  }
+  
+  .cart-list li {
+    margin-bottom: 10px;      /* Optional: Adds space between list items */
+  }
+  
